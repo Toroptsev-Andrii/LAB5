@@ -1,0 +1,10 @@
+C:\Users\Andrii\source\repos\КПЗ Лаб 4\КПЗ Лаб 4\bin\Debug\КПЗ Лаб 4.exe.config
+C:\Users\Andrii\source\repos\КПЗ Лаб 4\КПЗ Лаб 4\bin\Debug\КПЗ Лаб 4.exe
+C:\Users\Andrii\source\repos\КПЗ Лаб 4\КПЗ Лаб 4\bin\Debug\КПЗ Лаб 4.pdb
+C:\Users\Andrii\source\repos\КПЗ Лаб 4\КПЗ Лаб 4\obj\Debug\КПЗ Лаб 4.csproj.AssemblyReference.cache
+C:\Users\Andrii\source\repos\КПЗ Лаб 4\КПЗ Лаб 4\obj\Debug\КПЗ_Лаб_4.Form1.resources
+C:\Users\Andrii\source\repos\КПЗ Лаб 4\КПЗ Лаб 4\obj\Debug\КПЗ_Лаб_4.Properties.Resources.resources
+C:\Users\Andrii\source\repos\КПЗ Лаб 4\КПЗ Лаб 4\obj\Debug\КПЗ Лаб 4.csproj.GenerateResource.cache
+C:\Users\Andrii\source\repos\КПЗ Лаб 4\КПЗ Лаб 4\obj\Debug\КПЗ Лаб 4.csproj.CoreCompileInputs.cache
+C:\Users\Andrii\source\repos\КПЗ Лаб 4\КПЗ Лаб 4\obj\Debug\КПЗ Лаб 4.exe
+C:\Users\Andrii\source\repos\КПЗ Лаб 4\КПЗ Лаб 4\obj\Debug\КПЗ Лаб 4.pdb
